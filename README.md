@@ -4,13 +4,18 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 #Download link: https://www.kaggle.com/code/itsabhi212/cradict-card-fraud-detection
 
-#Libraries:
+##Libraries:
     pandas
     matplotlib
     seaborn
     scikit-learn
 
-#Algorithms:
+##Algorithms:
    Logistic Regression
    Random Forest
    XGBoost
+
+
+## Acknowledgements
+
+This project is based on code from [Original Author's Repository](https://github.com/aswintechguy/repo). Significant modifications and improvements have been made to the original code.
